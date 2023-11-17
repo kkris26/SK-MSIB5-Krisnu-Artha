@@ -458,7 +458,7 @@
             ?>
 
               <div class="col-md-4 col-sm-6 equal-height">
-                <div class="item" style="background-image: url(imgKategori/bgKategori/<?php echo $bg_kategori ?>)">
+                <div class="item" style="background-image: url(bgKategori/<?php echo $bg_kategori ?>)">
                   <a href="#">
                     <i class="flaticon-feature"></i>
                     <div class="info">
